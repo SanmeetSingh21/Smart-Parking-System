@@ -17,7 +17,7 @@ An AI + IoT based project to automate vehicle entry using number plate recogniti
 - Admin options to register, delete, or edit vehicle data
 
 ## 🧠 Guided by
-**Dr. Sandeep Kumar Singla**
+**[Dr. Sandeep Kumar Singla](https://gndec.ac.in/faculty/?id=224)**
 
 ## ▶️ Demo
 
