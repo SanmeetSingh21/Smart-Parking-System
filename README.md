@@ -19,6 +19,11 @@ An AI + IoT based project to automate vehicle entry using number plate recogniti
 ## 🧠 Guided by
 **Dr. Sandeep Kumar Singla**
 
+## ▶️ Demo
+
+🎥 **Watch the project in action:**  
+[🔗 LinkedIn Video Demo](https://www.linkedin.com/feed/update/urn:li:activity:7338121896237899778/)
+
 ## 📦 Installation
 ```bash
 pip install -r requirements.txt
